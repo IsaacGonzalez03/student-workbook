@@ -1,3 +1,4 @@
+# Day 2
 # What is a Pseudo-Class and what are some of the most common ones you think you will use?
 Pseudo classes are keywords that start with colons that do specific things. I can imagine the :hover pseudo class will be used frequently
 # What is Specificity and how might you use it to your benefit?
