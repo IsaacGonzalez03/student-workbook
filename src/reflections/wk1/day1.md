@@ -1,3 +1,4 @@
+# Day 1
 # In your own words, why do we use Git?
 We use git to work on code simultaneously with other developers locally.
 # What are the benefits of having multiple branches?
