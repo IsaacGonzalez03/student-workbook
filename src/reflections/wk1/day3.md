@@ -5,3 +5,5 @@ Having a good understanding of bootstrap terms to know when and where to impleme
 awwwards, and bootstrapbay compile sites and comment on what makes the designs great.
 # How do you think good design influences people when visiting a website and what sorts of things could you convey through design alone?
 Good design can portray a high level of quality. When people visit a site that is of a higher tier, that could influence them with their time and or money, and they are more likely to refer friends.
+
+# https://github.com/IsaacGonzalez03/site-clone
