@@ -15,7 +15,7 @@ the command mkdir creates a new directory
 **3.** What is the `\<html>\</html>` tag in a document?
 <!-- enter you answer in the space below -->
 ```
-
+this is information for the browser
 ```
 
 **4.** What does `HTML` stand for?
@@ -38,7 +38,7 @@ cascading style sheets
 ```
 <!-- enter you answer in the space below -->
 ```
-
+selector property value
 ```
 
 **7.** What property would you change if you wanted to make a font **Bold**?
@@ -62,7 +62,7 @@ ol ordered list, ul unordered list, li list item
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-
+the flex property allows for movement along the x and y axis 
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
