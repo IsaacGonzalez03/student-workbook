@@ -1,4 +1,4 @@
-#Day 3
+# Day 3
 # What is your favorite tip that you think is the most beneficial to improving your design?
 Having a good understanding of bootstrap terms to know when and where to implement them will make designing a breeze, and also allow for more creativity.
 # Compile a couple resources that you think might be helpful when trying to review examples of good design ideas.

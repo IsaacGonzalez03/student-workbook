@@ -68,5 +68,5 @@ the flex property allows for movement along the x and y axis
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-
+height width margin padding content
 ```
