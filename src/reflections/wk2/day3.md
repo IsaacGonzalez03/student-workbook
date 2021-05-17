@@ -8,3 +8,5 @@ sources tab will let you see css and html, and will also let you edit those on t
 # Outside of writing everything to the console, what is a better way to debug your code?
 the code editor in the console is helpful, also break points are helpful as they pause code in specified areas.
 the debugger is also awesome because it takes you line for line.
+
+https://github.com/IsaacGonzalez03/rock-paper-szizzorz

@@ -1,3 +1,4 @@
+# Quiz 2
 # Intro to JavaScript
 
 **1.** Which keywords are used to declare a variable in JavaScript?

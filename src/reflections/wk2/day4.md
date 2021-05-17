@@ -8,3 +8,5 @@ its okay to fail, its okay to quit and find a different way to do things, google
 dont have to prematurely optimize the code.
 take lots of short breaks while coding, get fresh eyes on the project.
 just because things work doesnt mean theyre right!
+
+https://github.com/IsaacGonzalez03/slap-game
