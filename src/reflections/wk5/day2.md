@@ -12,3 +12,5 @@ embedding is simpler to get while linking stores the info in a database and does
 # What are some of the challenges faced when deciding how to manage a many-to-many relationship that ultimately drive your decision on how to create it?
 
 establishing a size for both then running with what works best.
+
+https://github.com/IsaacGonzalez03/summer21-megslist
