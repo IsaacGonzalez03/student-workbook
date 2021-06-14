@@ -10,3 +10,5 @@ design logic and helper methods all exist in the same space and are easily found
 
 # What are some drawbacks to Component based architecture?
 Bloating and over engineered work can be a drawback
+
+https://github.com/IsaacGonzalez03/vue-playground
