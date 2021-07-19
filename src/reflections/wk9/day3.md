@@ -11,4 +11,4 @@ Demonstrate the basic structure for creating a new table called characters with 
   description varchar(255) COMMENT 'Description'
 ) default charset utf8 comment '';
 
-What is the difference between the following statements:
+https://github.com/IsaacGonzalez03/GregsList

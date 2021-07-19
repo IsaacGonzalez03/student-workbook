@@ -8,3 +8,5 @@ bool, int, decimal, char
 
 In your own words how do Reference types get stored in memory? How does this differ from Value types?
 - Almost like a parameter/key/look here when needing to use this thing.
+
+https://github.com/IsaacGonzalez03/RPSCS
